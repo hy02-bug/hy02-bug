@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning python and data analyst
 - ⚡ Fun fact: I'm a Sherlock fans
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy02-bug&show_icons=true&theme=tokyonight)
