@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Yadiy 👋
+
+[![Yadiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy02-bug)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hy02-bug/hy02-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
